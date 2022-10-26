@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python and Kotlin**
 
-- 💬 About Me : **I like Anime, Manhaw, Manga, Video Games.**
+- 💬 About Me : **I like Anime, manhwa, Manga, Video Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
