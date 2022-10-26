@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yogesh Patil
 - 👀 I’m interested in Programming, Video Games, Anime, Computers.
 - 🌱 I’m currently learning Flutter, Python, Kotlin.
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me on twitter @Yogeshp95572554
 
 <!---
