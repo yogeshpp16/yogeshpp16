@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yogeshp95572554" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshp95572554?logo=twitter&style=for-the-badge" alt="yogeshp95572554" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Python and Kotlin**
+- 🌱 I’m currently learning **Flutter, Python , Rust and Kotlin**
 
 - 💬 About Me : **I like Anime, manhwa, Manga, Video Games.**
 
